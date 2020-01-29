@@ -1,13 +1,15 @@
 header{
     color: green;
     background-color: blue;
+    margin: auto;
+    position: relative;
 
 
 }
 body{
+    float: right;
     color: red;
     background-color: green;
-
 
 
 
